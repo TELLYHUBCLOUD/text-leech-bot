@@ -2,7 +2,8 @@
 <img src="https://github.com/SudoR2spr/SudoR2spr/raw/main/assets/line-neon.gif" width="100%">
 
 <!-- GIF HEADER -->
-<img src="https://github.com/TELLYHUBCLOUD/text-leech-bot/blob/main/raw=true" width="100%">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=BOLD+Code&weight=700&size=27&pause=1000&color=4FF73B&background=3FF4FF00&random=false&width=435&lines=WELLCOME+TO+TELLYCLOUD+BOTS;DEPLOYE+FREE+AND+PAID+BOTS" alt="Typing SVG" /></a>
+
 <img src="https://github.com/SudoR2spr/SudoR2spr/raw/main/assets/line-neon.gif" width="100%">
 
 
