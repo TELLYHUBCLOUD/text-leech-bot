@@ -19,7 +19,7 @@
 ## Deploy To Google Colab
 
 <a href="https://colab.research.google.com/github.com/TELLYHUBCLOUD/text-leech-bot/blob/main/text_leech_bot" target="_blank">
-  <img src="https://TELLYHUBCLOUD.github.io/Me/img/gc.png" alt="Deploy To Google Colab" style="width:150px;"/>
+  <img src="https://AshutoshGoswami24.github.io/Me/img/gc.png" alt="Deploy To Google Colab" style="width:150px;"/>
 </a>
 
 ## Deploy To Koyeb
